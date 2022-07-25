@@ -102,7 +102,6 @@
 				4B072296288F383E00B36C0C /* LandmarksApp.swift */,
 				4B0722C0288F395300B36C0C /* CircleImage.swift */,
 				4B0722C3288F3AE800B36C0C /* MapView.swift */,
-				4B0722C2288F3A1400B36C0C /* README.md */,
 				4B072298288F383E00B36C0C /* ContentView.swift */,
 				4B07229A288F383F00B36C0C /* Assets.xcassets */,
 				4B07229C288F383F00B36C0C /* Preview Content */,
@@ -131,6 +130,7 @@
 			children = (
 				4B0722B1288F383F00B36C0C /* LandmarksUITests.swift */,
 				4B0722B3288F383F00B36C0C /* LandmarksUITestsLaunchTests.swift */,
+				4B0722C2288F3A1400B36C0C /* README.md */,
 			);
 			path = LandmarksUITests;
 			sourceTree = "<group>";
