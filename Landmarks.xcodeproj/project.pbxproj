@@ -82,6 +82,7 @@
 				4B072295288F383E00B36C0C /* Landmarks */,
 				4B0722A6288F383F00B36C0C /* LandmarksTests */,
 				4B0722B0288F383F00B36C0C /* LandmarksUITests */,
+				4B0722C2288F3A1400B36C0C /* README.md */,
 				4B072294288F383E00B36C0C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -130,7 +131,6 @@
 			children = (
 				4B0722B1288F383F00B36C0C /* LandmarksUITests.swift */,
 				4B0722B3288F383F00B36C0C /* LandmarksUITestsLaunchTests.swift */,
-				4B0722C2288F3A1400B36C0C /* README.md */,
 			);
 			path = LandmarksUITests;
 			sourceTree = "<group>";
