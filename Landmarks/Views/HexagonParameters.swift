@@ -4,8 +4,6 @@
 //
 //  Created by Osman Bowser on 7/25/22.
 //
-
-import Foundation
 import CoreGraphics
 
 struct HexagonParameters {
