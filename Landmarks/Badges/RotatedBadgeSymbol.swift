@@ -1,5 +1,5 @@
 //
-//  RotatedSymbol.swift
+//  RotatedBadgeSymbol.swift
 //  Landmarks
 //
 //  Created by Osman Bowser on 7/26/22.
@@ -7,9 +7,9 @@
 
 import SwiftUI
 
-struct RotatedSymbol: View {
+struct RotatedBadgeSymbol: View {
     let angle: Angle
-    
+        
     var body: some View {
         BadgeSymbol()
             .padding(-60)
@@ -17,8 +17,8 @@ struct RotatedSymbol: View {
     }
 }
 
-struct RotatedSymbol_Previews: PreviewProvider {
+struct RotatedBadgeSymbol_Previews: PreviewProvider {
     static var previews: some View {
-        RotatedSymbol(angle: Angle(degrees: 5))
+        RotatedBadgeSymbol(angle: Angle(degrees: 5))
     }
 }
