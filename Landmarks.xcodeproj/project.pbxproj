@@ -45,6 +45,7 @@
 		4B09F4CF289088FF00D89C26 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B09F4CE289088FF00D89C26 /* PageViewController.swift */; };
 		4B09F4D328908B5900D89C26 /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B09F4D228908B5900D89C26 /* FeatureCard.swift */; };
 		4B09F4D528908BEF00D89C26 /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B09F4D428908BEF00D89C26 /* PageView.swift */; };
+		4B09F4D7289090D000D89C26 /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B09F4D6289090D000D89C26 /* PageControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -107,6 +108,7 @@
 		4B09F4CE289088FF00D89C26 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		4B09F4D228908B5900D89C26 /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
 		4B09F4D428908BEF00D89C26 /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
+		4B09F4D6289090D000D89C26 /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -298,6 +300,7 @@
 			isa = PBXGroup;
 			children = (
 				4B09F4CE289088FF00D89C26 /* PageViewController.swift */,
+				4B09F4D6289090D000D89C26 /* PageControl.swift */,
 			);
 			path = PageView;
 			sourceTree = "<group>";
@@ -444,6 +447,7 @@
 				4B0722C4288F3AE800B36C0C /* MapView.swift in Sources */,
 				4B01120928902D8300AC3340 /* GraphCapsule.swift in Sources */,
 				4B072297288F383E00B36C0C /* LandmarksApp.swift in Sources */,
+				4B09F4D7289090D000D89C26 /* PageControl.swift in Sources */,
 				4B0722D5288F6D6700B36C0C /* FavoriteButton.swift in Sources */,
 				4B0112132890413100AC3340 /* CategoryItem.swift in Sources */,
 				4B01120B28902D8300AC3340 /* HikeDetail.swift in Sources */,
