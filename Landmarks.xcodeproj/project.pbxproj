@@ -182,8 +182,8 @@
 		4B072295288F383E00B36C0C /* Landmarks */ = {
 			isa = PBXGroup;
 			children = (
-				4B01120D2890382100AC3340 /* Categories */,
 				4B072296288F383E00B36C0C /* LandmarksApp.swift */,
+				4B01120D2890382100AC3340 /* Categories */,
 				4B0111FE2890268C00AC3340 /* Badges */,
 				4B0722D6288F6E8000B36C0C /* Helpers */,
 				4B0722CD288F4CE700B36C0C /* Resources */,
